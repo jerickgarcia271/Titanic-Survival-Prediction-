@@ -1,2 +1,4 @@
 # Titanic-Survival-Prediction-
-A logistic regression classifier for Titanic passenger survival prediction through features such as sex, socioeconomic  status, and age among others achieving ~79% classification accuracy.
+- A logistic regression classifier for Titanic passenger survival prediction through features such as sex, socioeconomic  status, and age among others achieving ~79% classification accuracy.
+- Performed exploratory data analysis, feature 
+preprocessing, missing-value handling, and model evaluation using precision, recall, and F1 metrics.
